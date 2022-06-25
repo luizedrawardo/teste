@@ -1,0 +1,81 @@
+section#sec1,#sec2,header,section#sec5,#sec6,section#sec3,#sec4,section#sec7{
+    background-image: url("imagens/9.png");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    /* max-width:a;
+    min-width:a ;
+    max-width: 1800px;**/ /*depois ver se faz diferença*/
+    /**/
+     
+} 
+div#raposa{
+    background-image: url("imagens/6.jpg");
+    background-attachment: fixed;
+    background-position: center top;
+    border-radius: px;
+    
+}
+div#coruja{
+    background-image: url("imagens/4.jpg");
+    background-position:center;
+    background-attachment: fixed;
+    
+}
+
+section{
+    padding:30px 0px 30px 0px;
+}
+section>p {
+    font-weight: bold;
+    font-size: 30px;
+    text-align:left;
+    text-shadow: 9px 3px 5px rgba(0, 0, 0, 0.439);
+    padding: 30px;
+}
+p.par1{
+    background-color: rgba(25, 98, 98, 0.653);
+    width:380px;
+    border-radius: 20px;
+}
+p.par2{
+
+}
+p.par3{
+    background-color: rgba(25, 98, 98, 0.653);
+    width:380px;
+    padding: 20px;
+    border-radius: 20px;
+    
+}
+p.par4{
+
+}
+/*
+{
+    background-image: url("imagens/9.png");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+   
+}
+{
+    background-image: url("imagens/9.png");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+{
+    background-image: url("imagens/9.png");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+{
+    background-image: url("imagens/9.png");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+*/
+/* tava assim antes*/

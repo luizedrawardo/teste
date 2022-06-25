@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Annie+Use+Your+Telescope&family=Gloria+Hallelujah&family=Kalam:wght@300;400;700&family=Mali:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&family=Reenie+Beanie&display=swap');
+ 
+*{
+    margin:0px;
+    font-family: 'Gloria Hallelujah';
+    color: aliceblue;
+}
+
+body{
+    background-image: url("imagens/10.png") ;
+    background-size:cover ;
+    background-position: center;
+    background-color: black;    
+}
+
+header{
+    color: aliceblue;
+    /*background-color: black;*/
+    /*deixando o background transparente consigo o efeito legal do background image aparecer no site todo*/
+    padding:  30px 0px 30px 0px ;
+    text-align: center;
+    height:200px ;
+}
+header>h1{
+    font-size: 60px;
+    font-style: oblique;
+    font-weight: bold;
+} 
+header>p{
+    font-size: 30px;
+    text-decoration: none;
+}
+header a{
+    text-decoration: none;
+    color: rgb(255, 216, 99);
+}
+
+header>p> a:hover{
+    color: rgb(70, 237, 209);
+    font-size: 32px;
+    
+}
+
+
+footer{
+    
+    color: aliceblue;
+    background-color: rgb(72, 32, 11);
+    text-align: center; 
+    font-size: 26px;
+    font-style: oblique;
+}
+
+div#teste{
+    background-image: url("imagens/9.png");
+    background-position: center;
+    background-attachment: 2
+}
